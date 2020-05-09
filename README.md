@@ -1,2 +1,2 @@
-# gender_classification
-basic gender classification using CNN  
+# Gender Classification
+Basic gender classification using CNN  
